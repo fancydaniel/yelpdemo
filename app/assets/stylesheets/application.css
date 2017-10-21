@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+ .brand {
+  font-family: 'Fredoka One', cursive;
+ }
